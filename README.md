@@ -65,7 +65,17 @@ In addition to the videos, there are summary slides and practice problems comple
 
 You can find these files under the Related Resources tab on each video page.
 
-### 1. Derivative of sin x and cos x
+### 1. Big Picture of Calculus
+
+https://www.youtube.com/watch?time_continue=1156&v=UcWsDwg1XwM
+
+Calculus is about change. One function tells how quickly another function is changing. 
+
+Professor Strang shows how calculus applies to ordinary life situations, such as:
+
+* driving a car
+* climbing a mountain
+* growing to full adult height
 
 ### 2.
 
@@ -82,4 +92,31 @@ These twelve videos on Derivatives dig deeper into the subfield of calculus know
 Like the overview videos, Professor Strang explains how each topic applies to real-life applications.  
 
 Along with the videos, there are summary slides and practice problems available under the Related Resources tab on each video page.
+
+### 1. Derivative of sin x and cos x
+
+### 2.
+
+### 3.
+
+### 4.
+
+### 5.
+
+### 6.
+
+### 7.
+
+### 8.
+
+### 9.
+
+### 10.
+
+### 11.
+
+### 12.
+
+
+
 
