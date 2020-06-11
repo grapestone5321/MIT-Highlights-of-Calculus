@@ -65,7 +65,17 @@ In addition to the videos, there are summary slides and practice problems comple
 
 You can find these files under the Related Resources tab on each video page.
 
-### Derivatives (12 videos)
+### 1. Derivative of sin x and cos x
+
+### 2.
+
+### 3.
+
+### 4.
+
+### 5.
+
+## Derivatives (12 videos)
 
 These twelve videos on Derivatives dig deeper into the subfield of calculus known as "differential calculus."  
 
