@@ -3,6 +3,11 @@ MIT-Highlights of Calculus
 
 https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/index.htm
 
+## Textbook
+
+https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/
+
+pdf: http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf
 
 ## Course Description
 
