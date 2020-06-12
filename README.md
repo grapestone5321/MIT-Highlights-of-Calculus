@@ -77,7 +77,7 @@ Professor Strang shows how calculus applies to ordinary life situations, such as
 * climbing a mountain
 * growing to full adult height
 
-### 2.
+### 2. Big Picture: Derivatives
 
 ### 3.
 
