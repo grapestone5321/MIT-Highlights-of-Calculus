@@ -79,11 +79,11 @@ Professor Strang shows how calculus applies to ordinary life situations, such as
 
 ### 2. Big Picture: Derivatives
 
-### 3.
+### 3. Max and Min and Second Derivative
 
-### 4.
+### 4. The Exponential Function
 
-### 5.
+### 5. Big Picture: Integrals
 
 ## Derivatives (12 videos)
 
@@ -95,27 +95,27 @@ Along with the videos, there are summary slides and practice problems available 
 
 ### 1. Derivative of sin x and cos x
 
-### 2.
+### 2. Product Rule and Quotient Rule
 
-### 3.
+### 3. Chains f(g(x)) and the Chain Rule
 
-### 4.
+### 4. Limits and Continuous Functions
 
-### 5.
+### 5. Inverse Functions f ^-1 (y) and the Logarithm x = ln y
 
-### 6.
+### 6. Derivatives of ln y and sin ^-1 (y)
 
-### 7.
+### 7. Growth Rate and Log Graphs
 
-### 8.
+### 8. Linear Approximation/Newton's Method
 
-### 9.
+### 9. Power Series/Euler's Great Formula
 
-### 10.
+### 10. Differential Equations of Motion
 
-### 11.
+### 11. Differential Equations of Growth
 
-### 12.
+### 12. Six Functions, Six Rules, and Six Theorems
 
 
 
