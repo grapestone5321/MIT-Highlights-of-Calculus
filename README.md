@@ -84,11 +84,45 @@ Professor Strang shows how calculus applies to ordinary life situations, such as
 
 ### 2. Big Picture: Derivatives
 
+https://www.youtube.com/watch?v=T_I-CUOc_bk&list=PLBE9407EA64E2C318&index=3
+
+Calculus finds the relationship between the distance traveled and the speed — easy for constant speed, not so easy for changing speed. 
+
+Professor Strang is finding the "rate of change" and the "slope of a curve" and the "derivative of a function."
+
 ### 3. Max and Min and Second Derivative
+
+https://www.youtube.com/watch?v=tBBJ2TSTa1Q&list=PLBE9407EA64E2C318&index=4
+
+At the top and bottom of a curve (Max and Min), the slope is zero. The "second derivative" shows whether the curve is bending down or up. 
+
+Here is a real-world example of a minimum problem:
+
+What route from home to work takes the shortest time?
+
 
 ### 4. The Exponential Function
 
+https://www.youtube.com/watch?v=oo1ZZlvT2LQ&list=PLBE9407EA64E2C318&index=5
+
+Professor Strang explains how the "magic number e" connects to ordinary things like the interest on a bank account. 
+
+The graph of
+y = ex has the special property that its slope equals its height (it goes up "exponentially fast"!). 
+
+This is the great function of calculus.
+
 ### 5. Big Picture: Integrals
+
+https://www.youtube.com/watch?v=2qxY859dzzQ&list=PLBE9407EA64E2C318&index=6
+
+The second half of calculus looks for the distance traveled even when the speed is changing. 
+
+Finding this "integral" is the opposite of finding the derivative. 
+
+Professor Strang explains how the integral adds up little pieces to recover the total distance.
+
+I know the speed at each moment of my trip, so how far did I go?
 
 ## Derivatives (12 videos)
 
