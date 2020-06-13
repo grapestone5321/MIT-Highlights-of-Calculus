@@ -3,6 +3,8 @@ MIT-Highlights of Calculus
 
 https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/index.htm
 
+https://www.youtube.com/playlist?list=PLBE9407EA64E2C318
+
 ## Textbook
 
 https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/
